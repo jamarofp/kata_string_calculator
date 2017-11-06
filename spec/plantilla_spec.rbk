@@ -1,0 +1,10 @@
+describe "plantilla" do
+   context "When testing the xxx class" do
+
+      it "" do
+         expected = ""
+         expect(expected).to eq ""
+      end
+
+   end
+end
